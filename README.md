@@ -48,7 +48,7 @@ A Tkinter interface allows users to upload road images and adjust colour thresho
 
 ## Project Files
 
-- [Source Code](Lane_Detection_Source_Code.py)
+- [Source Code](Lane_Detection_Source_Code.py.py)
 - [Project Report](Lane_Detection_Project_Report.pdf.pdf)
 - [Presentation](Lane_Detection_Presentation.pdf.pdf)
 - [Detection Results](Lane_Detection_Results.pdf.pdf)
